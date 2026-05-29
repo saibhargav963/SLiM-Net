@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+
+title: "SLiM-Net: Shearlet-Liquid Misalignment Network for Semantic Change Detection"
+
+message: "If you use this software, please cite the associated paper."
+
+type: software
+
+authors:
+  - family-names: "Bhargav"
+    given-names: "Sai"
+
+repository-code: "https://github.com/USERNAME/SLiM-Net"
+
+license: MIT
+
+keywords:
+  - Semantic Change Detection
+  - Remote Sensing
+  - Shearlet Transform
+  - Liquid Neural Network
+  - Deep Learning
+  - Earth Observation
+
+abstract: >
+  SLiM-Net is a semantic change detection framework that integrates
+  shearlet-based feature extraction, cross-temporal fusion,
+  liquid neural network modeling, and misalignment-aware error
+  refinement for multi-temporal remote sensing imagery.
+
+version: 1.0.0
+
+date-released: 2026-01-01

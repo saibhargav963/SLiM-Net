@@ -1,0 +1,36 @@
+dataset:
+  image_size: 256
+  num_classes: 7
+
+shearlet:
+  scales: 3
+  directions: 8
+  total_subbands: 24
+
+fusion:
+  channels: 128
+
+liquid_network:
+  hidden_dim: 64
+  alpha: 0.5
+
+refinement:
+  alpha: 0.5
+  beta: 0.5
+
+training:
+  epochs: 100
+  batch_size: 8
+  learning_rate: 0.0001
+  weight_decay: 0.00001
+  optimizer: Adam
+
+evaluation:
+  metrics:
+    - OA
+    - mIoU
+    - F1
+    - Kappa
+    - SeK
+
+seed: 42
