@@ -184,6 +184,12 @@ Configuration files, dataset loaders, training scripts, evaluation scripts, and 
 
 ---
 
+## Code Availability
+
+The source code and reproducibility resources for SLiM-Net are publicly available through Zenodo:
+
+https://doi.org/10.5281/zenodo.20441944
+
 ## Citation
 
 If you use this repository in your research, please cite:
