@@ -194,14 +194,13 @@ https://doi.org/10.5281/zenodo.20441944
 
 If you use this repository in your research, please cite:
 
-```bibtex
-@article{SLiMNet2026,
-  title={SLiM-Net: Shearlet-Liquid Misalignment Network for Semantic Change Detection},
-  author={Author(s)},
-  journal={Array},
-  year={2026}
+@software{SLiMNet2026,
+  author = {Sai Bhargav},
+  title = {SLiM-Net: Shearlet-Liquid Misalignment Network for Semantic Change Detection},
+  year = {2026},
+  doi = {10.5281/zenodo.20441944}
 }
-```
+
 
 ---
 
